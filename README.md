@@ -7,9 +7,9 @@ From a Dataset of short videos the code Predicts what is being said through Visu
 Used: Jupyter Notebook and Narwhal
 
 Narwhal Environment:
-\n $ module load cseinit
-$ module load cse/anaconda3
-$ pip install --user --no-cache-dir nvidia-pyindex
-$ pip install --user --no-cache-dir nvidia-tensorrt
-$ pip install opencv-python matplotlib imageio gdown
-$ source activate tensorflow-gpu
+<br> $ module load cseinit
+<br> $ module load cse/anaconda3
+<br> $ pip install --user --no-cache-dir nvidia-pyindex
+<br> $ pip install --user --no-cache-dir nvidia-tensorrt
+<br> $ pip install opencv-python matplotlib imageio gdown
+<br> $ source activate tensorflow-gpu
