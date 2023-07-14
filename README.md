@@ -4,7 +4,7 @@ Using LipNet on Narwhal  HPC
 What the Code Does: 
 From a Dataset of short videos the code Predicts what is being said through Visual Data only.
 
-Used: Jupyter Notebook and Narwhal
+Used: Jupyter Notebook and Narwhal (Written for Linux)
 
 Narwhal Environment:
 <br> $ module load cseinit
